@@ -25,8 +25,7 @@ Analysis of δ18O is insightful for studying climate because its composition in 
 Here I develop a function that interpolates ages for a given isotope stratigraphy dataset based on an age model of tie points. The function also produces some summary statistics for depths with multiple samples. Through plotting the results, we can examine a history of Earth’s climate over the last 150,000 years, which spans the last glacial cycle. This record is conveniently plotted with time on the x axis rather than depth, made possible by this age model interpolation function.
 
 
-Dataset citations:
-
+Dataset citations:  
 Channell, J. E. T., Hodell, D. A., & Lehman, B. (1997). Relative geomagnetic paleointensity and δ18O at ODP Site 983 (Gardar Drift, North Atlantic) since 350 ka. Earth and Planetary Science Letters, 153(1–2), 103–118. https://doi.org/10.1016/s0012-821x(97)00164-7
 
 Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K. A., Kleiven, K. F., & McIntyre, K. (2004). Stability of North Atlantic water masses in face of pronounced climate variability during the Pleistocene. Paleoceanography, 19(2), 1–13. https://doi.org/10.1029/2003PA000921
