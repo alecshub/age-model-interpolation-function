@@ -29,3 +29,9 @@ Dataset citations:
 Channell, J. E. T., Hodell, D. A., & Lehman, B. (1997). Relative geomagnetic paleointensity and δ18O at ODP Site 983 (Gardar Drift, North Atlantic) since 350 ka. Earth and Planetary Science Letters, 153(1–2), 103–118. https://doi.org/10.1016/s0012-821x(97)00164-7
 
 Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K. A., Kleiven, K. F., & McIntyre, K. (2004). Stability of North Atlantic water masses in face of pronounced climate variability during the Pleistocene. Paleoceanography, 19(2), 1–13. https://doi.org/10.1029/2003PA000921
+
+## Required packages
+- numpy
+- pandas
+- matplotlib.pyplot
+- scipy.interpolate
