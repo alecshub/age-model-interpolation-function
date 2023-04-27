@@ -1,4 +1,4 @@
-# age_model_interpolation_function
+# age-model-interpolation-function
 Interpolate ages for a given isotope stratigraphy dataset based on an age model of tie points.
 
 Arguments:
