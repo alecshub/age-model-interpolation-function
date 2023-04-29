@@ -3,13 +3,13 @@ Interpolate ages for a given isotope stratigraphy dataset based on an age model 
 
 Arguments:
 data_file: Name of the .txt file containing the dataset. Data file must have column order: 
-depth, d13C, d18O. Column headers cannot contain spaces.
+depth, d13C, d18O. Column headers cannot contain spaces.  
 age_model_file: Name of the .txt file containing the age model. Age model file must have column order:
-depth, age. Column headers cannot contain spaces.
+depth, age. Column headers cannot contain spaces. Age model must include dataset start age as first value and end age as last value.
 
 Returns:
 datall: Dataframe containing the original dataset with interpolated ages. Column order:
-depth, age, d13C, d18O.
+depth, age, d13C, d18O.  
 datave: Dataframe containing averaged data and interpolated ages. Column order:
 depth, age, d18O_mean, d18O_std, d18O_se, d13C_mean, d13C_std, d13C_se, count.
 
