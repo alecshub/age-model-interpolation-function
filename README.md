@@ -1,5 +1,5 @@
 # age-model-interpolation-function
-Interpolate ages for a given isotope stratigraphy dataset based on an age model of tie points.
+A Python function utilizing pandas, NumPy, and Matplotlib to estimate inter sample uncertainties in sediment core records and transfer data from depth to age scale via linear interpolation. I demonstrate the application of this tool to the field of paleoceanographic research in a Jupyter Notebook.
 
 Arguments:
 data_file: Name of the .txt file containing the dataset. Data file must have column order: 
