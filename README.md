@@ -31,7 +31,7 @@ Channell, J. E. T., Hodell, D. A., & Lehman, B. (1997). Relative geomagnetic pal
 Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K. A., Kleiven, K. F., & McIntyre, K. (2004). Stability of North Atlantic water masses in face of pronounced climate variability during the Pleistocene. Paleoceanography, 19(2), 1–13. https://doi.org/10.1029/2003PA000921
 
 ## How to get up and running
-### Option 1: For quick easy viewing  
+### Option 1: For quick and easy viewing  
 - Simply click on the file Age_model_interpolation_function.ipynb in this github repository. You will be able to view the code and output but not alter or run the code yourself.
 
 ### Option 2: Download required packages and run code yourself
