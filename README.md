@@ -31,14 +31,21 @@ Channell, J. E. T., Hodell, D. A., & Lehman, B. (1997). Relative geomagnetic pal
 Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K. A., Kleiven, K. F., & McIntyre, K. (2004). Stability of North Atlantic water masses in face of pronounced climate variability during the Pleistocene. Paleoceanography, 19(2), 1–13. https://doi.org/10.1029/2003PA000921
 
 ## How to get up and running
-### Required packages
+### Option 1: For quick easy viewing  
+- Simply click on the file Age_model_interpolation_function.ipynb in this github repository. You will be able to view the code and output but not alter or run the code yourself.
+
+### Option 2: Download required packages and run code yourself
+
+1) Install required packages using pip or conda:
 - numpy
 - pandas
 - matplotlib
 - scipy
+- jupyter
 
-All packages can be installed using pip or conda. 
-For example:  
-pip install [packagename]  
-or  
-conda install [packagename]  
+2) Download all project files from github and save in one folder.  
+3) In terminal enter "jupyter notebook" and wait for jupyter notebook window to open in browser.  
+4) In jupyter notebook window, navigate to folder with saved github files and open Age_model_interpolation_function.ipynb.
+
+
+
