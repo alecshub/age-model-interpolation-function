@@ -33,5 +33,11 @@ Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K
 ## Required packages
 - numpy
 - pandas
-- matplotlib.pyplot
-- scipy.interpolate
+- matplotlib
+- scipy
+
+All packages can be installed using pip or conda. 
+For example:
+pip install [packagename]
+or
+conda install [packagename]
