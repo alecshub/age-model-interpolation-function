@@ -38,7 +38,7 @@ Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K
 - scipy
 
 All packages can be installed using pip or conda. 
-For example:
-pip install [packagename]
-or
-conda install [packagename]
+For example:  
+pip install [packagename]  
+or  
+conda install [packagename]  
