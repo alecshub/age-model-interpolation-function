@@ -16,7 +16,7 @@ depth, age, d18O_mean, d18O_std, d18O_se, d13C_mean, d13C_std, d13C_se, count.
 
 ## Background
 
-The δ18O stratigraphy of sediment cores is a powerful tool for learning about Earth’s prehistoric climate; before modern humans were around and/or capable of recording detailed measurements for themselves.
+The δ18O stratigraphy of sediment cores is a powerful tool for learning about Earth’s prehistoric climate; before modern humans were capable of recording detailed measurements for themselves.
 
 δ18O is a stable isotope that is measured through the analysis of tiny single celled organisms called foraminifera. As foraminifera grow, they incorporate ions from the surrounding seawater into their shells, including the δ18O signature of that water. When they die, their shells fall through the water column and over time, accumulate in sedimentary layers on the seafloor.
 
