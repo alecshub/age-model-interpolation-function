@@ -30,7 +30,8 @@ Channell, J. E. T., Hodell, D. A., & Lehman, B. (1997). Relative geomagnetic pal
 
 Raymo, M. E., Oppo, D. W., Flower, B. P., Hodell, D. A., McManus, J. F., Venz, K. A., Kleiven, K. F., & McIntyre, K. (2004). Stability of North Atlantic water masses in face of pronounced climate variability during the Pleistocene. Paleoceanography, 19(2), 1–13. https://doi.org/10.1029/2003PA000921
 
-## Required packages
+## How to get up and running
+### Required packages
 - numpy
 - pandas
 - matplotlib
